@@ -1,4 +1,17 @@
-### Hi there 👋
+## 👋 Hi there 
+
+Hi, I'm Yaowen, a payments professional in a payments fintech startup as well as a post-graduate student in fintech and analytics. Mostly amateur works here, including school projects worthy of documenting here as well as personal passion projects :) 
+
+- 🔭 I’m currently working on ...
+
+## 🧘 My Personal Mantra
+<b> <i> "Either you can fix it, or you can't" </i> </b>
+There are only 2 kinds of problem: those that you can solve; and those that you have no control over. If you can solve it, then get to work. There's no need to worry or get stressed. If it's something you can't solve, worrying doesn't help anyways. 
+
+<image src="https://media.giphy.com/media/3x25Fh62IlHyvDwG7t/giphy.gif" width="120" height="120">
+
+## 📫 Get in Touch
+- Linkedin: https://www.linkedin.com/in/yao-wen-thng
 
 <!--
 **yawwwn/yawwwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
